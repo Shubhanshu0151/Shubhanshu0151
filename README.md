@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubhanshu</h1>
 <h3 align="center">A passionate Android developer from India</h3>
-img align="right" alt="Coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/12fed96-developer.gif"
+<img align="right" alt="Coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/12fed96-developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhanshu0151&label=Profile%20views&color=0e75b6&style=flat" alt="shubhanshu0151" /> </p>
 
