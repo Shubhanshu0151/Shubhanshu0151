@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Java+Dsa And Android Development**
 
-- 💬 Ask me about **C++, java,Kotlin, Xml and Android Dev**
+- 💬 Ask me about **C++, java, Python, Kotlin, Xml and Android Dev, Flutter(dart)**
 
 - 📫 How to reach me **vk1745632@gmail.com**
 
